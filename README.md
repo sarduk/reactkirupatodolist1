@@ -1,3 +1,20 @@
+
+
+
+
+reactkirupatodolist1
+
+una todolist in react basilare tratta dal <a class="" href="https://www.kirupa.com/react/simple_todo_app_react.htm" target="_blank">tutorial di kirupa</a> che incorpora un simpatico effetto di animazione    
+
+To run the project:
+
+    Clone this repo
+    Run npm install
+    Run npm start
+
+online demo http://reactkirupatodolist1.reabiagioblog.it
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

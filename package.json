@@ -1,7 +1,7 @@
 {
-  "name": "kirupa_simple_todolist",
+  "name": "reactkirupatodolist1",
   "switch_app": {
-    "name": "kirupa_simple_todolist"
+    "name": "reactkirupatodolist1"
   },
   "version": "0.1.0",
   "private": true,
